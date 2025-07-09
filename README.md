@@ -1,4 +1,4 @@
-This is a short introduction. I am a software engineer student.
+I am a software engineer student.
 
 <!--
 **dnlsdr/dnlsdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
